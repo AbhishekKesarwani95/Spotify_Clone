@@ -1,5 +1,8 @@
 let arr=[1,2,3,4,5];
 
+let b={abhi:"123", rahul:123};
+
+
 let squareSumAv=(...arr)=>{
     let square=arr.map((el)=>{
         return el*el;
